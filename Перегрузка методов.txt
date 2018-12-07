@@ -1,0 +1,12 @@
+    // Перегрузка методов (функций)
+    public static int summ (int a, int b) {
+        return a + b;
+    }
+    public static int summ (int a, int b, int c) {
+        return a + b + c;
+    }
+
+    public static float summ (float a, float b, float c) {
+        return a + b + c;
+    }
+    // Перегрузка методов (функций)
